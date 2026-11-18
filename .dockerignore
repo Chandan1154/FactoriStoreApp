@@ -1,0 +1,9 @@
+.git
+.idea
+.gradle
+**/.gradle
+**/build
+**/target
+artifacts
+proof-of-concept
+local.properties
